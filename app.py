@@ -5,8 +5,8 @@ import numpy as np
 import joblib
 import matplotlib.pyplot as plt
 
-# Configuración de página
-st.set_page_config(page_title="Big Five Predictor & Famous Matcher", layout="centered")
+# Configuración de la página
+st.set_page_config(page_title="Big Five Predictor & Cluster by Gerry", layout="wide")
 
 st.title("🧠 Clasificador de Personalidad - Big Five Test")
 st.write("Introduce tus puntajes del test Big Five (0 a 100) para conocer tu cluster, famosos similares y ver tu gráfica comparativa.")
